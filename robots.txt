@@ -1,0 +1,8 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://w529446574twnuaa.github.io/w529446574twnuaa_github_io_zp530_10.txt
+Sitemap: https://w529446574twnuaa.github.io/w529446574twnuaa_github_io_zp530_15.txt
+Sitemap: https://w529446574twnuaa.github.io/w529446574twnuaa_github_io_zp530_2.txt
+Sitemap: https://w529446574twnuaa.github.io/w529446574twnuaa_github_io_zp530_24.txt
+Sitemap: https://w529446574twnuaa.github.io/w529446574twnuaa_github_io_zp530_6.txt
